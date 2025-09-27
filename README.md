@@ -1,4 +1,4 @@
-### UrRemote — You are remote; so are we.
+**UrRemote — You are remote; so are we.**
 
 We build custom web & mobile apps on **Ruby on Rails**, extend with **Python/Java** libraries, and turn complex findings into clear visuals using modern JS.
 
