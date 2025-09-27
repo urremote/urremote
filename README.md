@@ -1,9 +1,8 @@
 **UrRemote — You are remote; so are we.**
 
-We build custom web & mobile apps on **Ruby on Rails**, extend with **Python/Java** libraries, and turn complex findings into clear visuals using modern JS.
+We specialize in custom web & mobile app development on **Ruby on Rails**, backed by **Python/Java** libraries, and turn complex findings into clear visuals using modern **JavaScript**.
 
-- 🛠️ **What we do:** product MVPs • research tooling • dashboards • internal platforms  
-- 📊 **Data viz:** interactive charts, maps, and explorables for researchers & analysts  
-- 🧩 **Stack:** Rails • Postgres • Python/Java services • D3.js • TypeScript • Tailwind  
-- ⚡ **Approach:** small teams, fast feedback, pragmatic engineering  
-- 🏝️ **Base:** Bali, Indonesia — working remotely, globally
+🛠️ **What we do:** Product MVPs, research tooling, dashboards, internal platforms, data storytelling  
+🧩 **Stack:** Ruby on Rails, Postgres, Python/Java libraries, modern JavaScript frameworks, Tailwind CSS  
+⚡ **Approach:** Small teams, fast feedback, human-friendly UX  
+🏝️ **Base:** Bali, Indonesia — remote worldwide
